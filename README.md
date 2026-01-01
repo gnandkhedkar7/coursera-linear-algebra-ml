@@ -8,6 +8,7 @@ This course builds the linear algebra foundation required for machine learning. 
 
 ## Repository Structure
 
+```text
 coursera-ml-linear-algebra/
 ├── Module1_Vectors/
 │ └── Labs related to vectors and vector operations
@@ -28,13 +29,13 @@ Note: Currently, Module 3 labs are included. Modules 1 and 2 can be added later 
 
 ## Module Breakdown
 
-Module 1: Vectors  
+Module 1: Vectors
 Topics covered include vector representation, notation, vector operations such as addition and scalar multiplication, vector norms, and geometric intuition behind vectors. Labs focus on understanding vector concepts using Python and NumPy.
 
-Module 2: Matrices  
+Module 2: Matrices
 Topics covered include matrix representation, matrix addition and multiplication, identity and inverse matrices, matrix transpose, and how matrices are used in machine learning computations. Labs emphasize hands-on matrix operations using NumPy.
 
-Module 3: Linear Algebra for Machine Learning  
+Module 3: Linear Algebra for Machine Learning
 Topics covered include matrix multiplication in practice, vectorization for performance optimization, eigenvalues and eigenvectors, linear transformations, and the role of linear algebra in machine learning models. This module contains multiple lab notebooks along with supporting utility files and image assets.
 
 ## Tools and Technologies Used
@@ -52,3 +53,4 @@ These notebooks are uploaded for personal educational use only and are not inten
 ## Future Improvements
 
 Planned improvements include adding labs from Modules 1 and 2, adding personal notes and explanations, and cleaning selected notebooks for potential portfolio use.
+```
