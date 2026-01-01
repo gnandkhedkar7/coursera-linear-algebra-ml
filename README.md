@@ -24,8 +24,7 @@ coursera-ml-linear-algebra/
 │ └── images/
 │ └── Supporting images used in labs
 └── README.md
-
-Note: Currently, Module 3 labs are included. Modules 1 and 2 can be added later following the same structure.
+```
 
 ## Module Breakdown
 
@@ -53,4 +52,7 @@ These notebooks are uploaded for personal educational use only and are not inten
 ## Future Improvements
 
 Planned improvements include adding labs from Modules 1 and 2, adding personal notes and explanations, and cleaning selected notebooks for potential portfolio use.
+
+```
+
 ```
